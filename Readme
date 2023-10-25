@@ -1,1 +1,28 @@
-## These files are for setting up a Formbot Voron 2.4 R2 350 build
+## These files are for setting up a Formbot Voron 2.4 R2 350mm build
+
+##Parts/Features Include:
+
+#Meanwell LRS-200-24
+    #No cooling fan
+
+#Meanwell RS-25-5
+    #No cooling fan
+
+#BTT Pi Board
+    #No cooling fan
+
+#BTT Octopus v1.1 Controller Board
+    #120mm Be Quiet (12v) Temperature controlled fan (58c)
+
+#Stealthburner extruder assembly
+    #Nema14 36mm (24v) motor
+    #Clockwork 2 extruder gears
+    #Revo Voron 40W (24v) hotend
+    #Octotap v1.0 PCB (Z endstop probe) (nozzle 150c limit to homing)
+    #Neopixel (3) index LEDS (GRBW basic)
+
+#BTT_mini12864 (LCD display)
+    #LED status colour changing
+
+#XYZ Steppers
+    #Moons Nema17 (24v) x6 @ (X x1, Y x1, Z x4)
