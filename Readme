@@ -16,10 +16,10 @@
 
 #Stealthburner extruder assembly
     #Nema14 36mm (24v) motor
-    #Clockwork 2 extruder gears
+    #Clockwork 2 extruder 
     #Revo Voron 40W (24v) hotend
     #Octotap v1.0 PCB (Z endstop probe) (nozzle 150c limit to homing)
-    #Neopixel (3) index LEDS (GRBW basic)
+    #Neopixel (3) index LEDS (RGBW basic)
 
 #BTT_mini12864 (LCD display)
     #LED status colour changing
