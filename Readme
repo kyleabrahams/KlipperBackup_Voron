@@ -1,3 +1,12 @@
+[printer]
+kinematics: corexy
+max_velocity: 500                                # May 8, 2024 Prev 300, 320                               * May 8 2024 ALL *
+max_accel: 10000                                 # Nov 03,2023 15000 high Setting, 2000 old, 45000 exper (4500 for Input shaping)
+max_accel_to_decel: 5000                        # Default 5000 May 7 2024 7500 high, It is used to reduce the top speed of short zig-zag moves (and thus reduce printer vibration from these moves). The default is half of max_accel.
+max_z_velocity: 20                               # Max 15 for (12V) TMC Drivers, can increase to 20 for (24V)
+max_z_accel: 350                                 # 150 lower setting
+square_corner_velocity: 5.0
+
 ## These files are for setting up a Formbot Voron 2.4 R2 350mm build
 
 ##Parts/Features Include:
