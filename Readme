@@ -7,7 +7,7 @@ max_z_velocity: 20                               # Max 15 for (12V) TMC Drivers,
 max_z_accel: 350                                 # 150 lower setting
 square_corner_velocity: 5.0
 
-## These files are for setting up a Formbot Voron 2.4 R2 350mm build *** Purchased Aug 23 2023 
+## These files are for setting up a Formbot Voron 2.4 R2 350mm build *** Purchased Aug 22 2023 
 
 ##Parts/Features Include:
 
